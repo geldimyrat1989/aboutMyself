@@ -1,5 +1,6 @@
-Strongly Typed by HTML5 UP
-html5up.net | @ajlkn
+Web page about Geldimyrat Alimov
+geldimyrat.alimov.1@gmail.com
+
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
@@ -17,9 +18,6 @@ and/or use any of Jane's work without her explicit permission!)
 
 As usual, feedback, bug reports, and comments are not only welcome, but strongly
 encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
 
 PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
 
